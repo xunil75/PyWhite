@@ -17,3 +17,6 @@ Let me know what you think!
 **Collapse window on the right corner working!**
 
 ![active-downloads](https://user-images.githubusercontent.com/32961904/32371769-62cc6bba-c092-11e7-911b-d5470b3640dd.jpg)
+
+# Tooltip:
+![tooltip](https://user-images.githubusercontent.com/32961904/32382427-793ade68-c0b5-11e7-98a1-ae3b4d11b09d.jpg)
