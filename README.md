@@ -12,7 +12,6 @@ Let me know what you think!
 # Browser View:
 ![pyload-browser](https://user-images.githubusercontent.com/32961904/32325741-7a0ded7a-bfd0-11e7-835e-20be598abc74.jpg)
 
-
 # Active Downloads:
 **Collapse window on the right corner working!**
 
@@ -20,3 +19,6 @@ Let me know what you think!
 
 # Tooltip:
 ![tooltip](https://user-images.githubusercontent.com/32961904/32382427-793ade68-c0b5-11e7-98a1-ae3b4d11b09d.jpg)
+
+# Modal Window:
+![modal-window](https://user-images.githubusercontent.com/32961904/32382893-c1f73b14-c0b6-11e7-813d-7cda8953ceb8.jpg)
