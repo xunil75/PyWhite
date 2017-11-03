@@ -11,3 +11,9 @@ Let me know what you think!
 
 # Browser View:
 ![pyload-browser](https://user-images.githubusercontent.com/32961904/32325741-7a0ded7a-bfd0-11e7-835e-20be598abc74.jpg)
+
+
+# Active Downloads:
+**Collapse window on the right corner working!**
+
+![active-downloads](https://user-images.githubusercontent.com/32961904/32371769-62cc6bba-c092-11e7-911b-d5470b3640dd.jpg)
