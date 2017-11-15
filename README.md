@@ -22,3 +22,6 @@ Let me know what you think!
 
 # Modal Window:
 ![modal-window](https://user-images.githubusercontent.com/32961904/32382893-c1f73b14-c0b6-11e7-813d-7cda8953ceb8.jpg)
+
+# Config Page
+![config-page](https://user-images.githubusercontent.com/32961904/32842787-4894f65a-ca1e-11e7-96d8-0a40e77f50af.jpg)
