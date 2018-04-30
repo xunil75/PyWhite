@@ -7,7 +7,7 @@ Password input with visibility toggle working as well!
 Let me know what you think!
 
 # Screencast:
-![Screencast](http://g.recordit.co/Hi50qXvrC8.gif)
+![hi50qxvrc8](https://user-images.githubusercontent.com/32961904/39432109-ea4ea58a-4c92-11e8-9a37-42fe1ee526cd.gif)
 
 # Mobile View:
 ![pyload_iphone8plusspacegrey_portrait](https://user-images.githubusercontent.com/32961904/32324420-a935758c-bfcb-11e7-8446-b4c34cb1803e.png)
